@@ -32,7 +32,7 @@ Stacks I have worked with : React Native+MySQL,React Native+Firebase, MERN
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/mYhd1NHQkHmZLiqN7M/giphy.gif" />
+  <img align="right" alt="GIF" src="https://gph.is/g/4603x6V" />
 
 ###  Quick Facts
 
